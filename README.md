@@ -1,2 +1,2 @@
-# datasciencecourera
+# datasciencecoursera
 this a sample repo
